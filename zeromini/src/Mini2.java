@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Mini2 {
     public static void main(String[] args){
 
-        System.out.println("[캐시백 계산]");
         Scanner in = new Scanner(System.in);
         System.out.print("결제 금액을 입력해 주세요.(금액):");
 
